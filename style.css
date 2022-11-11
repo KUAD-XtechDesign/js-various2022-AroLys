@@ -53,24 +53,24 @@
   0% {
     opacity: 0;
     top: 0;
-    transform: translateX(8px);
+    transform: translateX(5px);
   }
   10% {
     opacity: 1;
-    transform: translateX(-8px);
+    transform: translateX(-5px);
   }
   /* 任意 */
   30% {
-    transform: translateX(8px);
+    transform: translateX(6px);
   }
   40% {
-    transform: translateX(-8px);
+    transform: translateX(-6px);
   }
   50% {
-    transform: translateX(8px);
+    transform: translateX(7px);
   }
   60% {
-    transform: translateX(-8px);
+    transform: translateX(-7px);
   }
   /* 任意 */
   90% {
